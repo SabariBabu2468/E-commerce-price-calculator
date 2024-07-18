@@ -1,0 +1,12 @@
+[
+{"name": "Shirt", "price": 20, "quantity": 2, "category": "Clothing"},
+{"name": "Jeans", "price": 40, "quantity": 1, "category": "Clothing"},
+{"name": "Socks", "price": 5, "quantity": 3, "category": "Clothing"},
+{"name": "Laptop", "price": 700, "quantity": 1, "category": "Electronics"},
+{"name": "Mouse", "price": 25, "quantity": 1, "category": "Electronics"},
+{"name": "Desk Chair", "price": 150, "quantity": 1, "category": "Furniture"},
+{"name": "Table", "price": 200, "quantity": 1, "category": "Furniture"},
+{"name": "Novel", "price": 15, "quantity": 2, "category": "Books"},
+{"name": "Notebook", "price": 10, "quantity": 5, "category": "Stationery"},
+{"name": "Pen", "price": 2, "quantity": 10, "category": "Stationery"}
+]

@@ -1,0 +1,8 @@
+[
+    {"name": "Shirt", "price": 20, "quantity": 2, "category": "Clothing"},
+    {"name": "Jeans", "price": 40, "quantity": 1, "category": "Clothing"},
+    {"name": "Socks", "price": 5, "quantity": 3, "category": "Clothing"},
+    {"name": "Milk", "price": 3, "quantity": 2, "category": "Groceries"},
+    {"name": "Bread", "price": 2, "quantity": 1, "category": "Groceries"},
+    {"name": "Eggs", "price": 5, "quantity": 1, "category": "Groceries"}
+]
